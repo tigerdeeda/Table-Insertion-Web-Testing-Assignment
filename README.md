@@ -19,7 +19,7 @@ For MacBook
 ```
 pip3 install -r requirements.txt --user     
 ```
-```
+
 Please install the Python libraries on the list below
 
 ```
